@@ -10,6 +10,7 @@ Factors involved in the analysis include the following (below list is not exhaus
     - Data used is limited to a singular point-in-time, not allowing for more thorough analysis of average values over a reasonable time period.
     
 Notebook / Script / Analysis location:
+
     - https://github.com/acdlc4/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb
     - https://github.com/acdlc4/python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb
     

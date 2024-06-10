@@ -7,7 +7,8 @@ In addition to answering the question above, once that data has been analyzed, t
 Factors involved in the analysis include the following (below list is not exhaustive):
 
     - Data analysis performed using only two factors at a time, which limits the potential of more thorough conclusions.
-    - Data used is limited to a singular point-in-time, not allowing for more thorough analysis of average values over a reasonable time period.
+    - Data used is limited to a singular point-in-time, not allowing for more thorough analysis of average values over 
+        a reasonable time period.
     
 Notebook / Script / Analysis location:
 

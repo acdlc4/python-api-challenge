@@ -15,7 +15,8 @@ Notebook / Script / Analysis location:
     - https://github.com/acdlc4/python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb
     
 Output location:
-    - https://github.com/acdlc4/python-api-challenge/tree/main/WeatherPy/output_data
+
+    - [https://github.com/acdlc4/python-api-challenge/tree/main/WeatherPy/output_data](https://github.com/acdlc4/python-api-challenge/tree/main/WeatherPy/output_data)
 
 Any questions?
 
